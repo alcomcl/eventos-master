@@ -1,0 +1,130 @@
+﻿<Window x:Class="OnBreakWPF.CrudContrato"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreakWPF"
+        mc:Ignorable="d"
+        Title=" " Height="656.5" Width="884"  WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF033259" RenderTransformOrigin="1.018,0.561">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Left" Height="56" VerticalAlignment="Top" Width="892" Background="#FF12195F"/>
+
+
+        <Label Content="CREACION Y ADMINISTRACION DE CONTRATOS" HorizontalAlignment="Left" Margin="84,6,0,0" VerticalAlignment="Top" Height="39" Width="528" FontWeight="Bold" FontStyle="Italic" FontSize="22" Foreground="#FFFFFEFE" BorderBrush="#FF0C0B0B"/>
+        <Button Content="CREAR CONTRATO" x:Name="btnCrearContrato" HorizontalAlignment="Left" Height="56" Margin="58,539,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FF0A0909" Background="#FFB8E2D4" FontWeight="Bold" Click="BtnCrearContrato_Click"  >
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.4"/>
+            </Button.Effect>
+        </Button>
+        <Button Content="ACTUALIZAR CONTRATO" x:Name="btnActualizarContrato" HorizontalAlignment="Left" Height="56" Margin="254,539,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FF0A0909" Background="#FFB8E2D4" FontWeight="Bold" Click="BtnActualizarContrato_Click"  >
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.4"/>
+            </Button.Effect>
+        </Button>
+        <Button Content="LISTADO CONTRATOS" x:Name="btnBuscarContrato" HorizontalAlignment="Left" Height="56" Margin="646,539,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FF0A0909" Background="#FFB8E2D4" FontWeight="Bold" Click="BtnBuscarContrato_Click"  >
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.4"/>
+            </Button.Effect>
+        </Button>
+        <Button Content="TERMINAR CONTRATO" x:Name="btnTerminarContrato" HorizontalAlignment="Left" Height="56" Margin="450,539,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FF0A0909" Background="#FFB8E2D4" FontWeight="Bold" Click="BtnTerminarContrato_Click" >
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.4"/>
+            </Button.Effect>
+        </Button>
+        <GroupBox x:Name="gBoxEvento" Header="CARACTERISTICAS DEL CONTRATO" HorizontalAlignment="Left" Height="348" Margin="429,160,0,0" VerticalAlignment="Top" Width="425" Foreground="#FFF9F7F7" FontSize="10">
+            <Label x:Name="label1" Content="Precio Base" Foreground="White" HorizontalAlignment="Left" Margin="50,97,0,0" VerticalAlignment="Top" FontSize="11"/>
+        </GroupBox>
+        <Label Content="PERSONAL ADICIONAL :" HorizontalAlignment="Left" Margin="446,310,0,0" VerticalAlignment="Top" Width="150" Foreground="#FFF3F3F3"/>
+        <Label Content="NUMERO ASISTENTES :" HorizontalAlignment="Left" Margin="446,339,0,0" VerticalAlignment="Top" Width="150" Foreground="#FFF3F3F3"/>
+        <Label Content="TIPO DE EVENTO :" HorizontalAlignment="Left" Margin="446,197,0,0" VerticalAlignment="Top" Width="150" Foreground="#FFF3F3F3"/>
+        <GroupBox x:Name="gBoxBuscarCliente" Header="PARA CREAR CONTRATO -> CARGAR DATOS DEL CLIENTE" HorizontalAlignment="Left" Height="82" Margin="32,66,0,0" VerticalAlignment="Top" Width="400" Foreground="#FFF9F5F5" FontSize="10">
+            <Label x:Name="label" Content="* (123456789) - sin guion" HorizontalAlignment="Left" Height="22" Margin="13,37,0,0" VerticalAlignment="Top" Width="114" FontSize="9" Foreground="#FFFDF9F9"/>
+        </GroupBox>
+        <Button Content="BUSCAR " x:Name="btnBuscar" HorizontalAlignment="Left" Height="35" Margin="313,93,0,0" VerticalAlignment="Top" Width="95" BorderBrush="#FF0A0909" Background="#FFB8E2D4" FontWeight="Bold" Click="BtnBuscar_Click"   >
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.7"/>
+            </Button.Effect>
+
+        </Button>
+        <ComboBox x:Name="cboxTipoEvento" HorizontalAlignment="Left" Margin="609,195,0,0" VerticalAlignment="Top" Width="149" BorderBrush="#FF151313" >
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FF110101" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+
+            <ComboBoxItem Content="Matrimonio"/>
+            <ComboBoxItem Content="Cumpleaños Adulto"/>
+            <ComboBoxItem Content="Cumpleaños Infantil"/>
+            <ComboBoxItem Content="Evento Empresarial"/>
+            <ComboBoxItem Content="Desdepida de Soltero"/>
+            <ComboBoxItem Content="Evento Religioso"/>
+            <ComboBoxItem Content="Baby Shower"/>
+        </ComboBox>
+        <TextBox x:Name="txtPersonal" HorizontalAlignment="Left" Height="20" Margin="610,311,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="txtAsistentes" HorizontalAlignment="Left" Height="20" Margin="610,342,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="148"/>
+        <Label Content="OBSERVACIONES :" HorizontalAlignment="Left" Margin="448,412,0,0" VerticalAlignment="Top" Width="108" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtObservaciones" HorizontalAlignment="Left" MaxLength="500" Height="52" Margin="610,408,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <GroupBox x:Name="groupBox" Header="BUSCAR CONTRATO POR NUMERO DE CONTRATO"  HorizontalAlignment="Left" Height="82" Margin="448,66,0,0" VerticalAlignment="Top" Width="362" Foreground="#FFFBFAFA" FontSize="10"/>
+        <TextBox x:Name="txtNumeroContra"  HorizontalAlignment="Left" Height="20" Margin="580,100,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="98"/>
+        <Label Content="NUM CONTRATO :" HorizontalAlignment="Left" Margin="464,98,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFF3F3F3"/>
+        <Button Content="BUSCAR " x:Name="btnBuscarPorNumero" HorizontalAlignment="Left" Height="35" Margin="700,93,0,0" VerticalAlignment="Top" Width="95" BorderBrush="#FF0A0909" Background="#FFB8E2D4" FontWeight="Bold" Click="BtnBuscarPorNumero_Click"  >
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.7"/>
+            </Button.Effect>
+
+        </Button>
+        <GroupBox x:Name="groupBox1" Header="CLIENTE ASOCIADO" HorizontalAlignment="Left" Height="136" Margin="34,160,0,0" VerticalAlignment="Top" Width="372" FontSize="10" Foreground="#FFFDF9F9">
+            <Label Content="RAZON SOCIAL :" HorizontalAlignment="Left" Margin="6,46,0,0" VerticalAlignment="Top" Width="104" Foreground="#FFF3F3F3" FontSize="12"/>
+        </GroupBox>
+        <TextBox x:Name="txtRazonSocialAsociada" HorizontalAlignment="Left" Height="20" Margin="162,221,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="220"  FontWeight="Bold" MaxLength="200"/>
+        <Label Content="NOMBRE CONTACTO :" HorizontalAlignment="Left" Margin="44,251,0,0" VerticalAlignment="Top" Width="137" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtNombreAsociado" HorizontalAlignment="Left" Height="20" Margin="189,255,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="193" FontWeight="Bold"/>
+        <Label Content="RUT CLIENTE :" HorizontalAlignment="Left" Margin="48,189,0,0" VerticalAlignment="Top" Width="93" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtRutAsociado"  HorizontalAlignment="Left" Height="20" Margin="161,189,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" FontWeight="Bold"/>
+        <Label Content="RUT CLIENTE :" HorizontalAlignment="Left" Margin="52,98,0,0" VerticalAlignment="Top" Width="93" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtRut"  HorizontalAlignment="Left" Height="20" Margin="162,100,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="FECHA INICIO CONTRATO :" HorizontalAlignment="Left" Margin="448,374,0,0" VerticalAlignment="Top" Width="161" Foreground="#FFF3F3F3"/>
+        <DatePicker  x:Name="dpFechaInicio" HorizontalAlignment="Left" Margin="610,373,0,0" VerticalAlignment="Top" Height="28" Width="148"/>
+        <GroupBox x:Name="groupBox2" Header="DETALLE CONTRATO CREADO" HorizontalAlignment="Left" Height="199" Margin="32,309,0,0" VerticalAlignment="Top" Width="374" FontSize="10" Foreground="#FFF7F3F3"/>
+        <TextBox x:Name="txtNumeroContra2"  HorizontalAlignment="Left" Height="20" Margin="231,344,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="125"/>
+        <Label Content="NUMERO CONTRATO :" HorizontalAlignment="Left" Margin="53,342,0,0" VerticalAlignment="Top" Width="137" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtVigenciaContrato"  HorizontalAlignment="Left" Height="20" Margin="231,375,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="125" FontWeight="Bold" FontSize="14"/>
+        <Label Content="ESTADO CONTRATO :" HorizontalAlignment="Left" Margin="53,373,0,0" VerticalAlignment="Top" Width="137" Foreground="#FFF3F3F3"/>
+        <Label Content="FECHA INICIO CONTRATO :" HorizontalAlignment="Left" Margin="52,403,0,0" VerticalAlignment="Top" Width="160" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtFechaContrato"  HorizontalAlignment="Left" Height="20" Margin="231,407,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="125"/>
+        <Label Content="VALOR TOTAL EVENTO :" HorizontalAlignment="Left" Margin="52,466,0,0" VerticalAlignment="Top" Width="160" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtValorEventoEscondido"  HorizontalAlignment="Left" Height="20" Margin="231,470,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name="txtValorBase"  HorizontalAlignment="Left" Height="20" Margin="231,439,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="125"/>
+        <Label Content="VALOR BASE :" HorizontalAlignment="Left" Margin="52,434,0,0" VerticalAlignment="Top" Width="160" Foreground="#FFF3F3F3"/>
+        <Label Content="FECHA TERMINO CONTRATO :" HorizontalAlignment="Left" Margin="450,470,0,0" VerticalAlignment="Top" Width="176" Foreground="#FFF3F3F3"/>
+        <TextBox x:Name="txtFechaTermino"  HorizontalAlignment="Left" Height="20" Margin="670,472,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="125"/>
+        <Label Content="MODALIDAD SERVICIO :" HorizontalAlignment="Left" Margin="446,227,0,0" VerticalAlignment="Top" Width="150" Foreground="#FFF3F3F3"/>
+        <ComboBox x:Name="cboxModalidad" HorizontalAlignment="Left" Margin="609,231,0,0" VerticalAlignment="Top" Width="149" BorderBrush="#FF151313" SelectionChanged="CboxModalidad_SelectionChanged" >
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FF110101" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+
+            <ComboBoxItem Content="Light Break"/>
+            <ComboBoxItem Content="Journal Break"/>
+            <ComboBoxItem Content="Day Break"/>
+            <ComboBoxItem Content="Ejecutiva"/>
+            <ComboBoxItem Content="Celebración"/>
+            <ComboBoxItem Content="Quick Cocktail"/>
+            <ComboBoxItem Content="Ambient Cocktail"/>
+        </ComboBox>
+        <TextBox x:Name="txtCargaValorBase" HorizontalAlignment="Left" Height="19" Margin="566,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43" FontWeight="Bold"/>
+        <TextBox x:Name="txtCargaPersoanlBase" HorizontalAlignment="Left" Height="19" Margin="718,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" FontWeight="Bold"/>
+        <Label x:Name="label2" Content="Personal Base" Foreground="White" HorizontalAlignment="Left" Margin="631,270,0,0" VerticalAlignment="Top" FontSize="11"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="52" VerticalAlignment="Top" Width="74" Source="Imagenes/logo_transparent_background.png" Margin="5,4,0,0"/>
+
+
+    </Grid>
+</Window>

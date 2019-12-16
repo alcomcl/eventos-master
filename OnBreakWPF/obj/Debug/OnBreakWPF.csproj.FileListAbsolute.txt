@@ -1,0 +1,91 @@
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\BibliotecaClases.dll.config
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\CrudCliente.g.cs
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\CrudCliente.baml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\ListClientes.g.cs
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\ListClientes.baml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\CrudContrato.g.cs
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\OnBreakWPF\obj\Debug\CrudContrato.baml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\CrudCliente.g.cs
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\CrudContrato.g.cs
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\ListClientes.g.cs
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\BibliotecaClases.dll.config
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\CrudCliente.baml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\CrudContrato.baml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\ListClientes.baml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\ListContratos.g.cs
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\OnBreakWPF\obj\Debug\ListContratos.baml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\BibliotecaClases.dll.config
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\CrudCliente.g.cs
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\CrudContrato.g.cs
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\ListClientes.g.cs
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\ListContratos.g.cs
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\CrudCliente.baml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\CrudContrato.baml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\ListClientes.baml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\ListContratos.baml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\OnBreakWPF\obj\Debug\OnBreakWPF.pdb

@@ -1,0 +1,36 @@
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 3 OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion 4 . OnBreak BD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\alexc\Desktop\Solucion 5 OnBreak BD EXAMEN FINAL\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
